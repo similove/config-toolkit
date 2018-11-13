@@ -8,7 +8,7 @@
 <!-- http://www.qos.ch/shop/products/professionalSupport -->
 <!-- -->
 <configuration>
-	<property name="logBase" value="/var/log/config-toolkit/config-face" />
+	<property name="logBase" value="/home/zhangjianwei/software/config-tookkit/logs" />
 
 	<appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
 		<encoder>
